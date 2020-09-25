@@ -1,297 +1,262 @@
-alter ego	NOUN %guy
-avoir du mal	VERB %guy
-aussi bien	ADV %guy
-%à base de	ADP guy
-à bien ADV %guy
-à bord ADV %guy
-%à cause de	ADP guy
-à cause	 ADV %guy
-à ce effet	ADV %guy
-à ce égard	ADV
-à ce sujet	X
-à cloche-pied	ADV
-à compter	ADV %guy
-%à condition que	SCONJ guy
-à condition  ADV %guy
-à coup	ADV %guy
-à coup sûr  ADV %guy
-à court de	ADP
-à court terme	ADJ
-à côté	ADV %guy
-à fond	ADV
-%à hauteur de	ADP guy
-à hauteur  ADV %guy
-à juste titre	ADV
-à le bas mot	ADV
-à le cœur de	ADP
-à le contraire	ADV
-à le côté	ADV %guy
-%à le côté de	ADP guy
-à le cours	ADV %guy
-à le delà	ADV %guy
-à le demeurer	ADV
-à le dépens de	ADP
-à le détriment de	ADP
-à le encontre de	ADP
-à le exception de	ADP
-à le faveur de	ADP
-à le final	ADV
-à le fois	ADV
-%à le fond	ADV guy
-à le fur et à mesure de	ADP
-à le instar de	ADP
-à le issue de	ADP
-%à le jour le jour	ADV guy
-à le juste	ADV
-à le lettre	ADV
-à le lieu	ADV %guy
-%à le maximum	ADV guy % divergence avec PARSEME.FR, le critère DET ne fonctionne pas : "à un grand maximum"
-à le mode	ADJ %guy
-%à le moins	ADV guy
-à le motif que	SCONJ
-à le moyen de	ADV %guy
-à le niveau de	ADP
-à le nom de	ADP
-à le nombre de	ADP
-à le occasion de	ADP
-à le passage	ADV
-à le pied de	ADP
-à le revoir	NOUN %guy
-à le sortir de	ADP
-à le suite de	ADP
-à le sujet de	ADP
-à le titre de	ADP
-à le total	ADV
-à le vu	ADV %guy
-%à le voir de	ADP guy
-à long terme	ADV
-%à même	ADJ guy
-à merveille	ADV
-à mesure que	SCONJ
-%à moins de	ADP guy
-%à moins que	SCONJ guy
-à nouveau	ADV %guy
-à part	ADP %guy
-à partir	ADP
-à peine	ADV
-%à peu près	ADV guy
-à présent	ADV
-à priori	ADV
-à proprement parler	ADV %guy
-à propos     ADV %guy
-à raison     ADV %guy
-%à proximité	ADV guy % c'est une divergence par rapport à PARSEME-FR
-à savoir	ADV %guy
-à terme	ADV
-%à titre de	ADP guy
-à titre	 ADV %guy
-à tort	ADV
-à tout casser	ADV %guy
-à tout prix	ADV
-à vrai dire	ADV
-bel et bien	ADV %guy
-bien entendre	ADV %guy
-bien  sûr	ADV %guy
-bon enfant	ADJ %guy
-ce être pourquoi    ADV %guy
-comme si de rien ne être	VERB % guy
-compte rendu	NOUN
-compte tenir	ADV
-contre mauvais fortune bon coeur	X
-cum laude      ADV %guy
-dans le mesure où	ADV
-de affiler     ADV %guy
-de ailleurs    ADV %guy
-de abord       ADV %guy
-de avance	ADV
-de avis	ADV
-de bon augure	ADJ %guy
-de bon ton	ADJ %guy
-de ce fait	ADV %guy
-de façon à ce que	SCONJ
-de habitude   ADV %guy
-de ici	ADV
-de ici	ADP %guy
-de le côté de	ADP
-de le fait ADV %guy
-de le même coup	X
-%de le moins	ADV guy
-de le part de	ADP
-de le reste	ADV %guy
-de le tout	ADV %guy
-de le tout à le tout	ADV %guy
-de loin en loin	ADV %guy
-de manière à	ADP
-de moins en moins	ADV %guy
-de où	   ADP %guy
-de nouveau ADV %guy
-de part et de autre	ADV %guy
-de peu	ADV
-%guy de plus en plus de	ADP
-de plus	ADV %guy
-de plus en plus	ADV
-de sitôt	ADV
-de surcroît	ADV
-de temps à autre	ADV
-de temps en temps	ADV
-de tout façon	ADV
-de tout manière	ADV
-de tout part	ADV
-de un côté	X
-de un part	ADV
-depuis que	SCONJ
-dès lors	ADV %guy
-dès que	SCONJ
-en - dessous de	ADP
-en avant	ADV
-en avoir assez	VERB %guy
-en bas	ADV % divergence par rapport à PARSEME.FR
-en bref	ADV %guy % discutable car en + adj est très productif
-en cas de	ADP
-en ce qui concerner	VERB
-en charge de	ADP
-en commmun	ADV %guy % discutable car en + adj est très productif
-en continu	ADV %guy % discutable car en + adj est très productif
-en cours	ADJ
-en définitif	ADV %guy
-en dépit de	ADP
-en dessous de	ADP
-en effet	ADV
-en face		ADV %guy
-en fait	ADV
-en faveur de	ADP
-en fin de compte	ADV
-en fonction de	ADP
-en général  ADV %guy % discutable car en + adj est très productif
-en haut	ADV %divergence par rapport à PARSEME.FR
-en le occurrence	ADV
-en matière de	ADP
-en même temps	ADV
-en mesure	ADJ %guy
-en outre	ADV
-en parallèle	ADV %guy % discutable car en + adj est très productif
-en particulier	ADV % discutable car en + adj est très productif
-en partie	ADV
-en plein	ADV %guy % suivi d'un groupe prépositionnel
-en plus	ADV
-en présence de	ADP
-en privé    ADV
-en provenance de	ADP
-en qualité	ADV %guy
-en raison	ADV %guy
-%en raison	X guy
-en réalité	ADV
-en référence à	ADP
-en somme	ADV
-en sorte	ADV %guy
-en terme de	ADP
-en tête	 ADV %guy %divergence par rapport à PARSEME.FR
-en tout cas	ADV
-en tout	ADV
-en train	ADP %guy
-en vain	ADV
-en vertu de	ADP
-en vertu	ADV %guy
-en vigueur	ADV %guy
-en vue		ADV %guy suivi de "de"
-en vue	ADJ
-encore que	SCONJ
-en-dessous de	ADP
-entre autre	ADV
-entre deux	NOUN
-entre temps	ADV
-être donner	ADP %guy
-face à face	ADV
-face à	ADP
-fait divers	NOUN %guy
-fait maison	ADJ %guy
-faute de	ADP
-fonction de	ADP
-garde à vue	NOUN
-grand chose	PRON %guy
-grand mère	NOUN
-haut de gamme	ADJ
-histoire de	ADP
-%hors de	ADP guy
-hors pair	ADJ %guy
-il ne en être rien  VERB %guy
-%il être vrai	VERB guy
-il y avoir	ADP %guy
-il y avoir de cela  ADP %guy
-in extremis	ADV %guy
-%in vitro	ADV guy
-%jusque en	ADP guy
-le long		ADV %guy
-le plupart	NOUN %guy
-le tout pour le tout NOUN %guy
-%lors de	ADP guy
-low cost	ADJ %guy
-main dans le main	ADV
-main fort	NOUN
-maintenant que	SCONJ
-mener à bien	VERB
-mettre à part	ADP %guy
-ne payer pas de mine	VERB %guy
-nombre de	ADP
-non plus	ADV
-non seulement	ADV %guy
-nul part	ADV %guy
-on ne pouvoir plus	ADV %guy
-par ailleurs	ADV
-par conséquent	ADV
-par contre	ADV
-%par dessus tout	ADV guy
-par dessus  ADP %guy
-par exemple	ADV %guy
-par le biais de	ADP
-par le suite	ADV %guy
-par rapport à	ADP
-par suite	ADV %guy
-pas mal		ADV %guy
-pendant que	SCONJ
-petit à petit	ADV
-petit déjeuner	NOUN
-peu à peu	ADV
-peut-être que	SCONJ
-plus ou moins	ADV
-pour autant	ADV
-pour ce faire	ADV %guy
-pour le heure	ADV %guy
-pour un peu	ADV
-quelque chose	PRON
-quelque un	PRON
-qui que ce être	SCONJ
-ras le bol	NOUN
-salle à manger	ADV
-sans cesse	ADV
-sans doute	ADV
-sans faute	ADV
-sauver qui pouvoir	NOUN %guy
-savoir faire	NOUN %guy
-si besoin	ADV
-si ce ne être	ADP %guy
-si jamais	SCONJ
-si possible	X
-sous couvert de	ADP
-%sous forme de	ADP guy
-%sous prétexte que	SCONJ guy
-%suite à	ADP guy
-sur le champ	ADV
-sur le point de	ADP
-sur place	ADV
-tant que	SCONJ
-tel quel	ADJ
-tenir compte	VERB
-tête à tête	NOUN
-tour à tour	ADV %guy
-%tout comme	X guy
-tout de abord	ADV
-tout de le long	ADV
-%tout de même	ADV guy
-tout de suite	ADV
-un fois	ADV %guy
-un petit peu	ADV %guy
-un peu	ADV %guy
-un peu	PRON %guy
-y comprendre	ADP %guy
-%y compris	ADV guy
+MWE	POS	
+alter ego	NOUN	
+avoir du mal	VERB 	
+aussi bien	ADV 	
+à bien	ADV	
+à bord 	ADV	
+à cause	 ADV 	
+à ce effet	ADV 	
+à ce égard	ADV	
+à ce sujet	ADV	
+à cloche-pied	ADV	
+à compter	ADV 	
+à condition 	ADV	
+à coup	ADV 	
+à coup sûr	ADV	
+à court de	ADP	
+à court terme	ADJ	
+à côté	ADV 	
+à fond	ADV	
+à hauteur 	ADV	
+à juste titre	ADV	
+à le bas mot	ADV	
+à le contraire	ADV	
+à le côté	ADV 	
+à le cours	ADV 	
+à le delà	ADV 	
+à le demeurer	ADV	
+à le dépens	ADV	
+à le détriment	ADV	
+à le encontre	ADV	
+à le exception	ADV	
+à le faveur	ADV	
+à le final	ADV	
+à le fois	ADV	
+à le fur et à mesure	ADV	
+à le instar de	ADP	
+à le issue de	ADP	
+à le juste	ADV	
+à le lettre	ADV	
+à le lieu	ADV 	
+à le mode	ADJ 	
+à le motif que	SCONJ	
+à le moyen	ADV 	
+à le niveau	ADV	
+à le nom	ADV	
+à le nombre	ADV	
+à le occasion	ADV	
+à le passage	ADV	
+à le pied	ADV	
+à le revoir	NOUN 	
+à le sortir	ADV	
+à le suite	ADV	
+à le sujet	ADV	
+à le titre	ADV	
+à le total	ADV	
+à le vu	ADV 	
+à le voir	ADV	
+à long terme	ADV	
+à merveille	ADV	
+à mesure que	SCONJ	
+à nouveau	ADV 	
+à part	ADP 	
+à partir	ADP	
+à peine	ADV	
+à présent	ADV	
+à priori	ADV	
+à proprement parler	ADV 	
+à propos 	ADV	
+à raison	ADV	
+à savoir	ADV 	
+à terme	ADV	
+à titre	 ADV 	
+à tort	ADV	
+à tout casser	ADV 	
+à tout prix	ADV	
+à vrai dire	ADV	
+bel et bien	ADV 	
+bien entendre	ADV 	
+bien  sûr	ADV 	
+bon enfant	ADJ 	
+ce être pourquoi	ADV	
+comme si de rien ne être	ADV 	
+compte rendu	NOUN	
+compte tenir	ADV	
+contre mauvais fortune bon coeur	NOUN	
+cum laude	ADV	
+dans le mesure où	SCONJ	
+de affiler	ADV	
+de ailleurs 	ADV	
+de abord 	ADV	
+de avance	ADV	
+de avis	ADV	
+de bon augure	ADJ 	
+de bon ton	ADJ 	
+de ce fait	ADV 	
+de façon à ce que	SCONJ	
+de habitude	ADV	
+de ici	ADV	
+de ici	ADP 	
+de le côté de	ADP	
+de le fait 	ADV	
+de le même coup	ADV	
+de le part	ADV	
+de le reste	ADV 	
+de le tout	ADV 	
+de le tout à le tout	ADV 	
+de loin en loin	ADV 	
+de manière	ADV	à + infinitif
+de moins en moins	ADV 	
+de où	ADP 	
+de nouveau	ADV	
+de part et de autre	ADV 	
+de peu	ADV	
+de plus	ADV 	
+de plus en plus	ADV	
+de sitôt	ADV	
+de surcroît	ADV	
+de temps à autre	ADV	
+de temps en temps	ADV	
+de tout façon	ADV	
+de tout manière	ADV	
+de tout part	ADV	
+de un côté	ADV	
+de un part	ADV	
+dès lors	ADV 	
+en avant	ADV	
+en avoir assez	VERB 	
+en bas	ADV	divergence par rapport à PARSEME.FR
+en bref	ADV	discutable car en +ADJ est très productif
+en cas	ADV	
+en charge	ADV	
+en commmun	ADV	discutable car en +ADJ est très productif
+en continu	ADV	discutable car en +ADJ est très productif
+en cours	ADJ	
+en définitif	ADV 	
+en dépit de	ADP	
+en dessous de	ADP	
+en effet	ADV	
+en face	ADV	
+en fait	ADV	
+en faveur	ADV	
+en fin de compte	ADV	
+en fonction	ADV	
+en général	ADV	discutable car en +ADJ est très productif
+en haut	ADV	discutable car en +ADJ est très productif
+en le occurrence	ADV	
+en matière	ADV	
+en même temps	ADV	
+en mesure	ADJ 	
+en outre	ADV	
+en parallèle	ADV	discutable car en +ADJ est très productif
+en particulier	ADV	discutable car en +ADJ est très productif
+en partie	ADV	
+en plein	ADP	
+en plus	ADV	
+en présence	ADV	
+en privé	ADV	
+en provenance	ADV	
+en qualité	ADV 	
+en raison	ADV 	
+en réalité	ADV	
+en référence	ADV	à + groupe nominal
+en somme	ADV	
+en sorte	ADV 	
+en terme de	ADP	
+en tête	 ADV 	divergence par rapport à PARSEME.FR
+en tout cas	ADV	
+en tout	ADV	
+en train	ADP 	
+en vain	ADV	
+en vertu de	ADP	
+en vertu	ADV 	
+en vigueur	ADV 	
+en vue	ADV	"suivi de ""de"""
+en vue	ADJ	
+encore que	SCONJ	
+en-dessous de	ADP	
+entre autre	ADV	
+entre deux	NOUN	
+entre temps	ADV	
+être donner	ADP 	
+face à face	ADV	
+fait divers	NOUN 	
+fait maison	ADJ 	
+faute de	ADP	
+fonction de	ADP	
+garde à vue	NOUN	
+grand chose	PRON 	
+grand mère	NOUN	
+haut de gamme	ADJ	
+histoire de	ADP	
+%hors de	ADP 	
+hors pair	ADJ 	
+il ne en être rien 	VERB	
+il y avoir	ADP 	
+il y avoir de cela 	ADP	
+in extremis	ADV 	
+le long	ADV	
+le plupart	NOUN 	
+le tout pour le tout	NOUN	
+low cost	ADJ 	
+main dans le main	ADV	
+main fort	NOUN	
+maintenant que	SCONJ	
+mener à bien	VERB	
+mettre à part	ADP 	
+ne payer pas de mine	VERB 	
+nombre de	ADP	
+non plus	ADV	
+non seulement	ADV 	
+nul part	ADV 	
+on ne pouvoir plus	ADV 	
+par ailleurs	ADV	
+par conséquent	ADV	
+par contre	ADV	
+par dessus 	ADP	
+par exemple	ADV 	
+par le biais de	ADP	
+par le suite	ADV 	
+par rapport	ADV	à + groupe nominal
+par suite	ADV 	
+pas mal	ADV	 
+petit à petit	ADV	
+petit déjeuner	NOUN	
+peu à peu	ADV	
+peut-être que	SCONJ	
+plus ou moins	ADV	
+pour autant	ADV	
+pour ce faire	ADV 	
+pour le heure	ADV 	
+pour un peu	ADV	
+quelque chose	PRON	
+quelque un	PRON	
+qui que ce être	SCONJ	
+ras le bol	NOUN	
+salle à manger	ADV	
+sans cesse	ADV	
+sans doute	ADV	
+sans faute	ADV	
+sauver qui pouvoir	NOUN 	
+savoir faire	NOUN 	
+si besoin	ADV	
+si ce ne être	ADP 	
+si jamais	SCONJ	
+si possible	ADV	
+sous couvert	ADV	
+sur le champ	ADV	
+sur le point	ADV	
+sur place	ADV	
+tant que	SCONJ	
+tel quel	ADJ	
+tenir compte	VERB	
+tête à tête	NOUN	
+tour à tour	ADV 	
+tout de abord	ADV	
+tout de le long	ADV	
+tout de suite	ADV	
+un fois	ADV 	
+un petit peu	ADV 	
+un peu	ADV 	
+un peu	PRON 	
+y comprendre	ADP 	
